@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+a {
+  color: aquamarine;
+}
+
+h1, h2 {
+  color: white;
+  font-weight: 500;
+}
+
+p {
+  color: grey;
+}
