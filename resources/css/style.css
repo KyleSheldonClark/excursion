@@ -1,25 +1,42 @@
 body {
   background-color: black;
-  font-family: Verdana, sans-serif;
+  font-family: Verdana, sans-serif
 }
 
 h1 {
-  font-size: 60px;
+  font-size: 50px;
 }
 
 h2 {
-  font-size: 40px;
-}
-
-a {
-  color: aquamarine;
-}
-
-h1, h2 {
-  color: white;
-  font-weight: 500;
+  font-size: 42px;
+  font-weight: 300;
 }
 
 p {
   color: grey;
+  font-size: 21px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1, h2 {
+  color: white;
+  font-weight: normal;
+}
+
+h1, h2, p {
+  text-align: center;
+}
+
+.media {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copyright {
+  text-align: right;
 }
